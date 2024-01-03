@@ -1,0 +1,28 @@
+.barant{
+    height: 100vh;
+    display: flex;
+    padding: 50px;
+    justify-content: center;
+    text-align: center;
+}
+.container{
+    padding: 100px;
+    text-align: center;
+}
+h1{
+    font-weight: bolder;
+    font-size: 30px;
+    
+}
+.container img{
+    width: 60%;
+    height: 300px;
+    
+}
+.bt{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+
+
